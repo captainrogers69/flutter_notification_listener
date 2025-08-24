@@ -33,6 +33,9 @@ android {
     defaultConfig {
         minSdkVersion 23
     }
+
+    namespace "com.emperorsoft.notificationlistener"
+
 }
 
 dependencies {
